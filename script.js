@@ -24,6 +24,8 @@ function changeUnit() {
     temperatureEl.innerHTML = "Celsius";
     temperature2.innerHTML = "Fahrenheit";
     Output.innerHTML = "----";
+    link.href =
+      "https://thirdspacelearning.com/gcse-maths/geometry-and-measure/area-of-a-trapezium/";
 
     html.style.background = "#800000";
     button.style.background = "#d92626";
@@ -34,6 +36,8 @@ function changeUnit() {
     temperatureEl.innerHTML = "Fahrenheit";
     temperature2.innerHTML = "Celsius";
     Output.innerHTML = "----";
+    link.href =
+      "https://thirdspacelearning.com/gcse-maths/geometry-and-measure/area-of-a-trapezium/";
 
     html.style.background = "green";
     button.style.background = "#26d978";
