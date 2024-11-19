@@ -1,0 +1,29 @@
+html {
+  background: green;
+}
+
+body {
+  padding: 50px 200px 100px 100px;
+  background: white;
+  width: 600px;
+  margin: auto;
+  margin-top: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#img {
+  width: 700px;
+  padding: 10px;
+  border: #6ae05f solid 4px;
+}
+
+button {
+  padding: 10px 12px;
+  background: #26d978;
+}
+
+a {
+  text-decoration: none;
+  color: #26d978;
+}
